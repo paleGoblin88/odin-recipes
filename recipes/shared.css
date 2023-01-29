@@ -1,0 +1,32 @@
+p {
+    padding: 10px;
+    margin: 0 100px;
+    border: 2px solid brown;
+    background-color: white;
+}
+
+ol {
+    padding: 20px 50px;
+    margin: 0 100px;
+    border: 2px solid brown;
+    background-color: white;
+}
+
+h3  {
+    padding: 20px;
+    margin-left: 100px;
+}
+
+h3 a {
+    padding: 5px;
+    border: 10px solid brown;
+    border-radius: 8px;
+    text-decoration: none;
+    background-color:brown;
+    color: beige;
+}
+
+h3 a:hover {
+    background-color: white;
+    color: brown;
+}
